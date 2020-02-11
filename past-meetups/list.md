@@ -54,4 +54,5 @@
   - https://www.meetup.com/IndiQ-Meetups/events/268107043/
   - https://www.meetup.com/denhac-hackerspace/events/268116951/
   - https://www.meetup.com/denhac-hackerspace/events/268117115/
+  - https://www.qvcon2020.com/about/
   - 
