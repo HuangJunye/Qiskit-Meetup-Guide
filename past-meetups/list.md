@@ -55,4 +55,5 @@
   - https://www.meetup.com/denhac-hackerspace/events/268116951/
   - https://www.meetup.com/denhac-hackerspace/events/268117115/
   - https://www.qvcon2020.com/about/
+  - https://www.eventbrite.com/e/quantum-valley-summit-2020-tickets-93036561861
   - 
