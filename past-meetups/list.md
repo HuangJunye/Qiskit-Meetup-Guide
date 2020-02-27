@@ -58,4 +58,5 @@
   - https://www.eventbrite.com/e/quantum-valley-summit-2020-tickets-93036561861
   - https://www.meetup.com/Singapore-Quantum-Computing-Meetup/
   - https://www.meetup.com/denhac-hackerspace/events/268116951/
+  - https://www.meetup.com/Quantum-Computing-India/events/268945722/
   - 
