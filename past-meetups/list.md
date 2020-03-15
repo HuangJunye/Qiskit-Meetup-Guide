@@ -60,4 +60,6 @@
   - https://www.meetup.com/denhac-hackerspace/events/268116951/
   - https://www.meetup.com/Quantum-Computing-India/events/268945722/
   - https://www.meetup.com/denhac-hackerspace/events/268117115/
+  - https://www.meetup.com/Cambridge-Quantum-Computing-Meetup/
+  - https://www.meetup.com/New-York-Quantum-Computing-Meetup/
   - 
