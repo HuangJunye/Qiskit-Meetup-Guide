@@ -63,4 +63,5 @@
   - https://www.meetup.com/Cambridge-Quantum-Computing-Meetup/
   - https://www.meetup.com/New-York-Quantum-Computing-Meetup/
   - https://www.meetup.com/denhac-hackerspace/events/268117115/
+  - https://www.meetup.com/PyDENCO/events/llxnlrybcfbjc/
   - 
