@@ -67,4 +67,5 @@
   - https://www.meetup.com/London-Quantum-Computing-Meetup
   - https://www.meetup.com/Paris-Quantum-Computing-Technologies/
   - https://www.meetup.com/Quantum-Computing-Belgium/
+  - https://www.meetup.com/Quantum-Computing-in-Krakow/
   - 
