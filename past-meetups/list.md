@@ -70,4 +70,5 @@
   - https://www.meetup.com/Quantum-Computing-in-Krakow/
   - https://www.meetup.com/Quantum-Computing-AI-and-ML/
   - https://www.meetup.com/Zen4Maker/
+  - https://www.meetup.com/IBM-Q-and-WITS-Quantum-Computing-Talks/
   - 
