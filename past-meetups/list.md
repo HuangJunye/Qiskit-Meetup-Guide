@@ -71,4 +71,5 @@
   - https://www.meetup.com/Quantum-Computing-AI-and-ML/
   - https://www.meetup.com/Zen4Maker/
   - https://www.meetup.com/IBM-Q-and-WITS-Quantum-Computing-Talks/
+  - https://www.meetup.com/Philadelphia-Harrisburg-Quantum-Computing-Meetup-Group
   - 
