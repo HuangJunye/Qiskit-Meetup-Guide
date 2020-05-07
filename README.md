@@ -2,7 +2,7 @@
 A guide to establish local quantum computing community
 
 How to start?
- - gather a few people from the same country on Qiskit Slack workspace.
+ - gather a few people from the same country/city/university/local group on Qiskit Slack workspace.
  - Start group discussion
  - Plan for meetups
    - Find volunteers
@@ -12,7 +12,7 @@ How to start?
      - Content for talks
    - Find venue + local co-organizers for venue based tasks
    - Find sponsors
-   - Set budgest and calculate costs (venue, food, catering etc.) / possible negotiations with venue and sponsors?
+   - Set budget and calculate costs (venue, food, catering etc.) / possible negotiations with venue and sponsors?
    
 Possible team assignments
   - Setup team for marketing platforms/social handles/analytics
