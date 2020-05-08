@@ -74,4 +74,5 @@
   - https://www.meetup.com/Philadelphia-Harrisburg-Quantum-Computing-Meetup-Group
   - https://www.meetup.com/BILBAO-QUANTUM/
   - https://www.meetup.com/IBM-Developer-Sydney/events/270495928/
+  - https://www.meetup.com/Quantum-Computing-meets-Business-Rhineland/
   - 
