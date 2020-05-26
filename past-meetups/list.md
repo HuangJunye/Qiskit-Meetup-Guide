@@ -76,4 +76,5 @@
   - https://www.meetup.com/IBM-Developer-Sydney/events/270495928/
   - https://www.meetup.com/Quantum-Computing-meets-Business-Rhineland/
   - https://www.meetup.com/Portland-Quantum-Computing-Meetup-Group/
+  - https://www.meetup.com/Quantum-Computing-and-Big-Data/
   - 
