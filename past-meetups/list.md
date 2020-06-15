@@ -77,4 +77,5 @@
   - https://www.meetup.com/Quantum-Computing-meets-Business-Rhineland/
   - https://www.meetup.com/Portland-Quantum-Computing-Meetup-Group/
   - https://www.meetup.com/Quantum-Computing-and-Big-Data/
+  - https://www.meetup.com/Kitchener-Waterloo-Quantum-Technologies-Enthusiast/
   - 
